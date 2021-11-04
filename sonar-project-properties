@@ -1,0 +1,14 @@
+# must be unique in a given SonarQube instance
+sonar.projectKey=maven-examples
+# --- optional properties ---
+# defaults to project key
+sonar.projectName=maven-examples
+# defaults to 'not provided'
+sonar.projectVersion=1.0
+# Path is relative to the sonar-project.properties file. Defaults to .
+sonar.sources=. 
+# Encoding of the source code. Default is default system encoding
+sonar.sourceEncoding=UTF-8
+sonar.host.url=http://172.31.44.106:9090
+sonar.java.binaries=./target/classes
+sonar.login=002b777e5e6709de3e20111c68702fbc7b98b7cb
