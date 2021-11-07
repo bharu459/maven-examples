@@ -11,4 +11,4 @@ sonar.sources=.
 sonar.sourceEncoding=UTF-8
 sonar.host.url=http://172.31.44.106:9090
 sonar.java.binaries=./target/classes
-sonar.login=002b777e5e6709de3e20111c68702fbc7b98b7cb
+sonar.login=f15c5657d7906793a37380170aaad8472347f63c
